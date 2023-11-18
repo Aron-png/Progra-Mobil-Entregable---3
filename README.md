@@ -4,17 +4,55 @@ Proyecto de programacion mobil. Pertenece al grupo 3. Hay un de las herramientas
 _Cursiva_
 
 
-### Instalación 🔧
+## Instalación 🔧
 
+Fuentes:
 https://www.digitaldot.es/crear-app-ionic-visual-studio-code/ 
+https://codigofacilito.com/articulos/instalar-nodejs-windows 
 
-_Dí cómo será ese paso_
+Para instalar ionic primero debemos de instalar el node js. Para ello ingresamos al siguiente link:
+https://nodejs.org/en/download 
 
+### Instalar node js 
+---
+
+**Paso 1: Descargar el archivo ejecutable**
+
+Seleccionar la opcion correspondiente al sistema operativo a ejecutar.
+![No se pudo cargar la imagen](images/node1.PNG)
+
+**Paso 2: Abrir el archivo descargado, con extension _".msi"_**
+
+![No se pudo cargar la imagen](images/node2.PNG)
+
+**Paso 3: Aceptamos terminos y condiciones**
+![No se pudo cargar la imagen](images/node3.PNG)
+
+**Paso 4: Ubicamos la ruta de guardado**
+![No se pudo cargar la imagen](images/node4.PNG)
+
+**Paso 5: Aceptar instalar herramientas adicionales**
+
+La siguiente pestaña le daremos a _Instalar_
+![No se pudo cargar la imagen](images/node5.PNG)
+
+### Probar instalacion de node js 
+---
+
+_Debes ingresar al buscador "cmd" para abrir el Simbolo de sistema. En el, debes ingresar el siguiente codigo:_
 ```
-Da un ejemplo
+node -v
 ```
+Se mostrara la siguiente imagen:
+
+![No se pudo cargar la imagen](images/node6.PNG)
+
+### Instalar ionic
+---
+_Debemos ingresar el siguiente comando en el cmd_
 
 _Y repite_
+![No se pudo cargar la imagen](images/node6.PNG)
 
 ```
 hasta finalizar
@@ -22,7 +60,7 @@ hasta finalizar
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-### Diagrama de despliegue 📦
+## Diagrama de despliegue 📦
 
 Diagrama elaborado relacionado correctamente a los
 requisitos no funcionales
