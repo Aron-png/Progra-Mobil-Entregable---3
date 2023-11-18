@@ -1,17 +1,15 @@
 # Progra-Mobil-Entregable---3
 
-Proyecto de programacion mobil. Pertenece al grupo 3. Hay un de las herramientas que usarán en el entorno de desarrollo con su descripción detallando el proceso de instalación.
+
+Hay herramientas que usarán en el entorno de desarrollo con su descripción detallando el proceso de instalación.
 _Cursiva_
 
 
 ## Instalación 🔧
 
-Fuentes:
-https://www.digitaldot.es/crear-app-ionic-visual-studio-code/ 
-https://codigofacilito.com/articulos/instalar-nodejs-windows 
-
 Para instalar ionic primero debemos de instalar el node js. Para ello ingresamos al siguiente link:
-https://nodejs.org/en/download 
+[Instalar Node js](https://nodejs.org/en/download)
+ 
 
 ### Instalar node js 
 ---
@@ -38,7 +36,7 @@ La siguiente pestaña le daremos a _Instalar_
 
 ### Probar instalacion de node js 
 ---
-
+**Paso 1: instalar ionic**
 _Debes ingresar al buscador "cmd" para abrir el Simbolo de sistema. En el, debes ingresar el siguiente codigo:_
 ```
 node -v
@@ -50,15 +48,61 @@ Se mostrara la siguiente imagen:
 ### Instalar ionic
 ---
 _Debemos ingresar el siguiente comando en el cmd_
+```
+npm install -g ionic
+```
+_Luego comprobamos la instalacion con:_
+```
+ionic --version
+```
+Se mostrara la siguiente imagen:
+![No se pudo cargar la imagen](images/cmd1.PNG)
 
-_Y repite_
-![No se pudo cargar la imagen](images/node6.PNG)
+**Paso 2: Crear proyecto**
+
+El siguiente paso sera crear una carpeta:
+![No se pudo cargar la imagen](images/carpeta1.PNG)
+
+Luego, escribimos cmd en su ruta y le damos a enter:
+_Te deberia abrir un cmd_
+
+![No se pudo cargar la imagen](images/carpeta2.PNG)
+
+Ingresaremos el siguiente comando:
+_podemos personalizar el nombre del proyecto y agregamos "tabs/sidemenu/blank" segun nos convenga_
+
+tabs = tablas, sidemenu = menu o blank = completamente en blanco.
 
 ```
-hasta finalizar
+ionic start “nombre” blank
+```
+Deberia quedar asi:
+
+_Nos pedira elegir un framework, en este caso elegimos react._
+![No se pudo cargar la imagen](images/proyecto1.PNG)
+
+Si tenemos el proyecto de esta forma significa que el proyecto esta creado:
+
+![No se pudo cargar la imagen](images/proyecto2.PNG)
+
+**Paso 3: Instalar dependencias**
+
+Escribimos cmd en la ruta del proyecto y le damos a enter.
+
+_Luego, ingresamos el siguiente comando para poder verlo en el navegador:_
+```
+ionic serve
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+Deberia aparecer asi:
+_Le damos a "y" para instalar react-scrpits y esperamos unos minutos._
+![No se pudo cargar la imagen](images/proyecto3.PNG)
+
+### Fuentes
+---
+[Guia para instalar ionic](https://www.digitaldot.es/crear-app-ionic-visual-studio-code/)
+
+[Guia para instalar Node js](https://codigofacilito.com/articulos/instalar-nodejs-windows)
 
 ## Diagrama de despliegue 📦
 
