@@ -105,16 +105,11 @@ _Le damos a "y" para instalar react-scrpits y esperamos unos minutos._
 [Guia para instalar Node js](https://codigofacilito.com/articulos/instalar-nodejs-windows)
 
 ## Diagrama de despliegue 📦
+El diagrama de despliegue muestra la arquitectura de una aplicación móvil desarrollada en Ionic, la cual se ejecuta en un dispositivo Android con sistema operativo Android 11. En el lado del servidor web, se empleará Replit Server, que utiliza Node.js y hace uso de la base de datos SQLite3. Finalmente, la aplicación se conecta al servidor backend de Firebase mediante protocolos HTTP y WebSockets.
 
-Diagrama elaborado relacionado correctamente a los
-requisitos no funcionales
 ![No se pudo cargar la imagen](images/despliegue.PNG)
 
-_Cursiva_
 
-```
-Da un ejemplo
-```
 
 ## Requermiemientos no funcionales ⚙️
 
