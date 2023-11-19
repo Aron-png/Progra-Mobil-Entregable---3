@@ -108,6 +108,7 @@ _Le damos a "y" para instalar react-scrpits y esperamos unos minutos._
 
 Diagrama elaborado relacionado correctamente a los
 requisitos no funcionales
+![No se pudo cargar la imagen](images/despliegue.PNG)
 
 _Cursiva_
 
