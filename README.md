@@ -1,8 +1,8 @@
 # Progra-Mobil-Entregable---3
 
 
-Hay herramientas que usarán en el entorno de desarrollo con su descripción detallando el proceso de instalación.
-_Cursiva_
+La aplicacion a desarrollar se tratara de un registrador de botaciones. El usuario ingresa al login y vera dos pestañas. Una en la que tendra que botar por una opcion y la otra es donde vera el recuento de votos que hicieron los demas usuarios. Para realizar el proyecto, necesitaremos de ionic como framework gratuito. Ademas, es open source _codiog libre_ lo que permite que cualquiera pueda aditar, agregar o eliminar codigo segun le paresca. Dicrho framework, ayudara a crear apps estables y rapidas mediante el uso de HTML5, CSS, Angular JS o React.
+
 
 
 ## Instalación 🔧
