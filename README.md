@@ -113,9 +113,12 @@ El diagrama de despliegue muestra la arquitectura de una aplicación móvil desa
 
 ## Requermiemientos no funcionales ⚙️
 
-Los requerimientos están relacionados con el diagrama de despliegue
-
-_Cursiva_
+* _El servidor Replit debe de mantenerse activo las 24 horas del día para que los usuarios puedan acceder a la base de datos_
+* _El tiempo de respuesta al utilizar la aplicacion debe de ser menor de un segundo_
+* _El servidor Firebase debe de reportar detalladamente los errores que puedan haber causado que se caiga la aplicación_
+* _Cada día se debe de respaldar la base de datos_
+* _Aparte del usuario correspondiente, tan sólo el administrador puede cambiar los datos de la base o los usuarios_
+* _Todos los celulares Android siendo distribuidos actualmente deben de ser compatibles con la aplicación_
 
 ## Diagrama de casos de uso 📋
 
