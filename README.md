@@ -159,7 +159,8 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 * **Adrián Duarte** - *Diagrama de casos de uso* - [AdriUlima](https://github.com/AdriUlima)
 * **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-* **Jean Pierre Tinco** - *Diagrama de despligue* - [JeanPierreTB](https://github.com/JeanPierreTB)
+* **Jean Pierre Tinco** - *Chiste* - [JeanPierreTB](https://github.com/JeanPierreTB)
+* **Mario Cartolin** - *Elaboracion de Mockups* - [xsia-o](https://github.com/xsia-o)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
