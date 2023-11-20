@@ -158,6 +158,7 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 * **Adrián Duarte** - *Diagrama de casos de uso* - [AdriUlima](https://github.com/AdriUlima)
 * **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Jean Pierre Tinco** - *Diagrama de despligue* - [JeanPierreTB](https://github.com/JeanPierreTB)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
