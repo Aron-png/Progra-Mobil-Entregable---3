@@ -124,7 +124,7 @@ El diagrama de despliegue muestra la arquitectura de una aplicación móvil desa
 
 Diagrama elaborado relacionado correctamente a los requisitos funcionales:
 
-![No se pudo cargar la imagen](images/Uso.PNG)
+![No se pudo cargar la imagen](images/uso.PNG)
 
 Requisitos funcionales:
 
