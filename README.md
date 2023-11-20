@@ -124,7 +124,9 @@ El diagrama de despliegue muestra la arquitectura de una aplicación móvil desa
 
 Diagrama elaborado relacionado correctamente a los requisitos funcionales:
 
-![No se pudo cargar la imagen](images/Uso.PNG)
+![No se pudo cargar la imagen](images/uso.PNG)
+
+Requisitos funcionales:
 
 * _El usuario verá una SplashScreen al abrir la aplicación_
 * _El usuario podrá crearse una cuenta, iniciar sesión y cerrarla_
