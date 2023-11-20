@@ -151,7 +151,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Adrián Duarte** - *Diagrama de casos de uso* - [duarteadr](https://github.com/AdriUlima)
+* **Adrián Duarte** - *Diagrama de casos de uso* - [AdriUlima](https://github.com/AdriUlima)
 * **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
