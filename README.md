@@ -1,7 +1,7 @@
 # Progra-Mobil-Entregable---3
 
 
-La aplicacion a desarrollar se tratara de un registrador de botaciones. El usuario ingresa al login y vera dos pestañas. Una en la que tendra que botar por una opcion y la otra es donde vera el recuento de votos que hicieron los demas usuarios. Para realizar el proyecto, necesitaremos de ionic como framework gratuito. Ademas, es open source _codiog libre_ lo que permite que cualquiera pueda aditar, agregar o eliminar codigo segun le paresca. Dicrho framework, ayudara a crear apps estables y rapidas mediante el uso de HTML5, CSS, Angular JS o React.
+La aplicación a desarrollar se tratará de un registrador de votaciones. El usuario ingresa al login y verá dos pestañas. Una en la que tendrá que votar por una opción y la otra donde verá el recuento de votos que hicieron los demás usuarios. Para realizar el proyecto, necesitaremos de ionic como framework gratuito. Además, es open source _codiog libre_ lo que permite que cualquiera pueda editar, agregar o eliminar código según le parezca. Dicho framework ayudará a crear apps estables y rápidas mediante el uso de HTML5, CSS, Angular JS o React.
 
 
 
@@ -111,7 +111,7 @@ El diagrama de despliegue muestra la arquitectura de una aplicación móvil desa
 
 
 
-## Requermiemientos no funcionales ⚙️
+## Requerimientos no funcionales ⚙️
 
 * _El servidor Replit debe de mantenerse activo las 24 horas del día para que los usuarios puedan acceder a la base de datos_
 * _El tiempo de respuesta al utilizar la aplicacion debe de ser menor de un segundo_
@@ -151,7 +151,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Adrián Duarte** - *Diagrama de casos de uso* - [duarteadr](https://github.com/AdriUlima)
 * **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
