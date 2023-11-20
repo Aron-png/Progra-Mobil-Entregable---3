@@ -138,42 +138,41 @@ Requisitos funcionales:
 
 ### Descripción de casos de uso 
 Actores:
- •	Usuario
- •	Votante
+Usuario
+Votante
 Casos de Uso:
-1.	Mostrar Integrantes:
- •	Descripción: Permite al usuario ver los integrantes registrados en la encuesta
-2.	Crear Cuenta:
- •	Descripción: Permite al usuario crear una nueva cuenta en el sistema.
- •	Flujo Principal:
-  1.	El usuario hace click en la opción crear cuenta.
-  2.	El usuario ingresa los datos como nombre correo y contraseña, además acepta los termino y condiciones.
-  3.	Si el usuario no esta registrado, los datos se guardan en el sistema y se crea un nuevo usuario.
-3.	Acceder al Sistema:
- •	Descripción: Permite al usuario acceder a la aplicacion.
- •	Flujo Principal:
-  1.	El usuario ingresa los datos de sesión de inicio.
-  2.	El usuario hace click en inicio de sesión. 
-  3.	El sistema valida si el usuario está en el sistema y en caso sea correcto ingresa a la aplicación".
-4.	Cerrar sesion:
- •	Descripción: El usuario dentro del sistema puede cerrar su cuenta
- •	Flujo Principal:
-  1.	El usuario hace click en el dropdown.
-  2.	El usuario hace click en cerrar sesion.
-  3.	El sistema borra los datos de inicio de sesion y regresa al login al usuario.
-5.	Mostrar Votacion:
- •	Descripción: Permite al votante elegir una opción
- •	Flujo Principal:
-  1.	El votante hace click en la opción VOTACION.
-  2.	El votante puede elegir una de las opciones mostradas al hacer click.
-  3.	El sistema registra su voto y lo actualiza en el sistema.
-6.	Mostrar Recuento:
- •	Descripción: Permite al bibliotecario realizar operaciones relacionadas con la gestión de usuarios en el sistema.
- •	Flujo Principal:
-  1.	El votante hace click en la opción RECUENTO.
-  2.	El sistema devolverá unas graficas del total de votos actuales.
-  3.	El votante puede filtrar el recuento de votos.
-
+1. Mostrar Integrantes:
+Descripción: Permite al usuario ver los integrantes registrados en la encuesta.
+2. Crear Cuenta:
+Descripción: Permite al usuario crear una nueva cuenta en el sistema.
+Flujo Principal:
+El usuario hace clic en la opción "Crear Cuenta".
+El usuario ingresa datos como nombre, correo y contraseña, además de aceptar los términos y condiciones.
+Si el usuario no está registrado, los datos se guardan en el sistema y se crea un nuevo usuario.
+3. Acceder al Sistema:
+Descripción: Permite al usuario acceder a la aplicación.
+Flujo Principal:
+El usuario ingresa los datos de sesión de inicio.
+El usuario hace clic en "Inicio de Sesión".
+El sistema valida si el usuario está en el sistema y, en caso de ser correcto, ingresa a la aplicación.
+4. Cerrar Sesión:
+Descripción: El usuario dentro del sistema puede cerrar su cuenta.
+Flujo Principal:
+El usuario hace clic en el dropdown.
+El usuario hace clic en "Cerrar Sesión".
+El sistema borra los datos de inicio de sesión y redirige al usuario al login.
+5. Mostrar Votación:
+Descripción: Permite al votante elegir una opción.
+Flujo Principal:
+El votante hace clic en la opción "Votación".
+El votante puede elegir una de las opciones mostradas al hacer clic.
+El sistema registra su voto y lo actualiza en el sistema.
+6. Mostrar Recuento:
+Descripción: Permite al votante visualizar el recuento de votos.
+Flujo Principal:
+El votante hace clic en la opción "Recuento".
+El sistema muestra gráficas del total de votos actuales.
+El votante puede filtrar el recuento de votos.
 
 ### Mockups de la aplicacion 
 ![No se pudo cargar la imagen](images/Mockups.png)
