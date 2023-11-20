@@ -122,14 +122,17 @@ El diagrama de despliegue muestra la arquitectura de una aplicación móvil desa
 
 ## Diagrama de casos de uso 📋
 
-Diagrama elaborado relacionado correctamente a los
-requisitos funcionales.
+Diagrama elaborado relacionado correctamente a los requisitos funcionales:
 
-_Cursiva_
+![No se pudo cargar la imagen](images/Uso.PNG)
 
-```
-Da un ejemplo
-```
+* _El usuario verá una SplashScreen al abrir la aplicación_
+* _El usuario podrá crearse una cuenta, iniciar sesión y cerrarla_
+* _La sesión del usuario se guardará en el Local Storage_
+* _El usuario podrá ver los nombres de integrantes del grupo_
+* _El votante podrá votar en las votaciones correspondientes a sus respuestas en las preguntas filtro_
+* _El votante podrá ver más información de las opciones por las que puede votar_
+* _El votante podrá ver el recuento total de todas las votaciones existentes; pudiendo alternar entre ver todas o solo en las que votó_
 
 ### Descripción de casos de uso 
 Las descripciones están relacionadas correctamente a los
