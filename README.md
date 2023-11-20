@@ -137,8 +137,43 @@ Requisitos funcionales:
 * _El votante podrá ver el recuento total de todas las votaciones existentes; pudiendo alternar entre ver todas o solo en las que votó_
 
 ### Descripción de casos de uso 
-Las descripciones están relacionadas correctamente a los
-requisitos funcionales y los mockups
+Actores:
+ •	Usuario
+ •	Votante
+Casos de Uso:
+1.	Mostrar Integrantes:
+ •	Descripción: Permite al usuario ver los integrantes registrados en la encuesta
+2.	Crear Cuenta:
+ •	Descripción: Permite al usuario crear una nueva cuenta en el sistema.
+ •	Flujo Principal:
+  1.	El usuario hace click en la opción crear cuenta.
+  2.	El usuario ingresa los datos como nombre correo y contraseña, además acepta los termino y condiciones.
+  3.	Si el usuario no esta registrado, los datos se guardan en el sistema y se crea un nuevo usuario.
+3.	Acceder al Sistema:
+ •	Descripción: Permite al usuario acceder a la aplicacion.
+ •	Flujo Principal:
+  1.	El usuario ingresa los datos de sesión de inicio.
+  2.	El usuario hace click en inicio de sesión. 
+  3.	El sistema valida si el usuario está en el sistema y en caso sea correcto ingresa a la aplicación".
+4.	Cerrar sesion:
+ •	Descripción: El usuario dentro del sistema puede cerrar su cuenta
+ •	Flujo Principal:
+  1.	El usuario hace click en el dropdown.
+  2.	El usuario hace click en cerrar sesion.
+  3.	El sistema borra los datos de inicio de sesion y regresa al login al usuario.
+5.	Mostrar Votacion:
+ •	Descripción: Permite al votante elegir una opción
+ •	Flujo Principal:
+  1.	El votante hace click en la opción VOTACION.
+  2.	El votante puede elegir una de las opciones mostradas al hacer click.
+  3.	El sistema registra su voto y lo actualiza en el sistema.
+6.	Mostrar Recuento:
+ •	Descripción: Permite al bibliotecario realizar operaciones relacionadas con la gestión de usuarios en el sistema.
+ •	Flujo Principal:
+  1.	El votante hace click en la opción RECUENTO.
+  2.	El sistema devolverá unas graficas del total de votos actuales.
+  3.	El votante puede filtrar el recuento de votos.
+
 
 ### Mockups de la aplicacion 
 ![No se pudo cargar la imagen](images/Mockups.png)
