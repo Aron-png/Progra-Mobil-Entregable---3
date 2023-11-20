@@ -186,6 +186,7 @@ El votante puede filtrar el recuento de votos.
 ## Autores ✒️
 
 * **Adrián Duarte** - *Diagrama de casos de uso* - [AdriUlima](https://github.com/AdriUlima)
+* **Angel Cuya** - *Especificacion de casos de uso* 
 * **Fulanito Detal** - *Documentación Carry del trabajo 🥵* - [fulanitodetal](#fulanito-de-tal)
 * **Jean Pierre Tinco** - *Diagrama de despliegue* - [JeanPierreTB](https://github.com/JeanPierreTB)
 * **Mario Cartolin** - *Elaboracion de Mockups* - [xsia-o](https://github.com/xsia-o)
