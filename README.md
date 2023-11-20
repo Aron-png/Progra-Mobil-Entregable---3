@@ -155,8 +155,6 @@ requisitos funcionales y los mockups
 * **Jean Pierre Tinco** - *Chiste* - [JeanPierreTB](https://github.com/JeanPierreTB)
 * **Mario Cartolin** - *Elaboracion de Mockups* - [xsia-o](https://github.com/xsia-o)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
 ## Licencia 📄
 
 All licenses in this repository are copyrighted by their respective authors. Everything else is released under CC0. See LICENSE for details.
