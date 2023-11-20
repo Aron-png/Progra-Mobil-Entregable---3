@@ -190,6 +190,7 @@ El votante puede filtrar el recuento de votos.
 * **Fulanito Detal** - *Documentación Carry del trabajo 🥵* - [fulanitodetal](#fulanito-de-tal)
 * **Jean Pierre Tinco** - *Diagrama de despliegue* - [JeanPierreTB](https://github.com/JeanPierreTB)
 * **Mario Cartolin** - *Elaboracion de Mockups* - [xsia-o](https://github.com/xsia-o)
+* **Aaron Livias** - *Elaboracion de manual de instalacion* - [Aron-png](https://github.com/Aron-png)
 
 ## Licencia 📄
 
