@@ -147,6 +147,7 @@ requisitos funcionales y los mockups
 ## Construido con 🛠️
 
 * [Figma](https://www.figma.com/) - Elaboracion de Prototipos Visuales
+* [StarUML](https://staruml.io/download/) - Elaboracion de diagramas
 
 ## Autores ✒️
 
