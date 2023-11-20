@@ -140,7 +140,8 @@ Requisitos funcionales:
 Las descripciones están relacionadas correctamente a los
 requisitos funcionales y los mockups
 
-_Cursiva_
+### Mockups de la aplicacion 
+![No se pudo cargar la imagen](images/Mockups.png)
 
 
 ## Construido con 🛠️
