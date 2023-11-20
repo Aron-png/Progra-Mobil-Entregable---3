@@ -144,9 +144,11 @@ Requisitos funcionales:
 * _El votante podrá ver el recuento total de todas las votaciones existentes; pudiendo alternar entre ver todas o solo en las que él votó_
 
 ### Descripción de casos de uso 
+
 Actores:
-Usuario
-Votante
+* Usuario
+* Votante
+
 Casos de Uso:
 1. Acceder al Sistema:
 Descripción: Permite al usuario acceder a la aplicación.
