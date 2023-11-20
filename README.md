@@ -76,12 +76,12 @@ tabs = tablas, sidemenu = menu o blank = completamente en blanco.
 ```
 ionic start “nombre” blank
 ```
-Deberia quedar asi:
+Debería quedar asi:
 
-_Nos pedira elegir un framework, en este caso elegimos react._
+_Nos pedirá elegir un framework, en este caso elegimos react._
 ![No se pudo cargar la imagen](images/proyecto1.PNG)
 
-Si tenemos el proyecto de esta forma significa que el proyecto esta creado:
+Si tenemos el proyecto de esta forma significa que el proyecto está creado:
 
 ![No se pudo cargar la imagen](images/proyecto2.PNG)
 
@@ -94,7 +94,7 @@ _Luego, ingresamos el siguiente comando para poder verlo en el navegador:_
 ionic serve
 ```
 
-Deberia aparecer asi:
+Debería aparecer así:
 _Le damos a "y" para instalar react-scrpits y esperamos unos minutos._
 ![No se pudo cargar la imagen](images/proyecto3.PNG)
 
@@ -140,48 +140,37 @@ Requisitos funcionales:
 * _El usuario verá una SplashScreen al abrir la aplicación_
 * _El usuario podrá iniciar sesión y cerrarla_
 * _La sesión del usuario se guardará en el Local Storage_
-* _El usuario podrá ver los nombres de integrantes del grupo_
-* _El votante podrá votar en las votaciones correspondientes a sus respuestas en las preguntas filtro_
-* _El votante podrá ver más información de las opciones por las que puede votar_
-* _El votante podrá ver el recuento total de todas las votaciones existentes; pudiendo alternar entre ver todas o solo en las que votó_
+* _El votante podrá votar en las votaciones autorizadas para él_
+* _El votante podrá ver el recuento total de todas las votaciones existentes; pudiendo alternar entre ver todas o solo en las que él votó_
 
 ### Descripción de casos de uso 
 Actores:
 Usuario
 Votante
 Casos de Uso:
-1. Mostrar Integrantes:
-Descripción: Permite al usuario ver los integrantes registrados en la encuesta.
-2. Crear Cuenta:
-Descripción: Permite al usuario crear una nueva cuenta en el sistema.
-Flujo Principal:
-El usuario hace clic en la opción "Crear Cuenta".
-El usuario ingresa datos como nombre, correo y contraseña, además de aceptar los términos y condiciones.
-Si el usuario no está registrado, los datos se guardan en el sistema y se crea un nuevo usuario.
-3. Acceder al Sistema:
+1. Acceder al Sistema:
 Descripción: Permite al usuario acceder a la aplicación.
 Flujo Principal:
 El usuario ingresa los datos de sesión de inicio.
 El usuario hace clic en "Inicio de Sesión".
 El sistema valida si el usuario está en el sistema y, en caso de ser correcto, ingresa a la aplicación.
-4. Cerrar Sesión:
+2. Cerrar Sesión:
 Descripción: El usuario dentro del sistema puede cerrar su cuenta.
 Flujo Principal:
-El usuario hace clic en el dropdown.
-El usuario hace clic en "Cerrar Sesión".
+El votante hace clic en la opción "Cerrar Sesión".
 El sistema borra los datos de inicio de sesión y redirige al usuario al login.
-5. Mostrar Votación:
+3. Mostrar Votación:
 Descripción: Permite al votante elegir una opción.
 Flujo Principal:
 El votante hace clic en la opción "Votación".
 El votante puede elegir una de las opciones mostradas al hacer clic.
 El sistema registra su voto y lo actualiza en el sistema.
-6. Mostrar Recuento:
+4. Mostrar Recuento:
 Descripción: Permite al votante visualizar el recuento de votos.
 Flujo Principal:
 El votante hace clic en la opción "Recuento".
 El sistema muestra gráficas del total de votos actuales.
-El votante puede filtrar el recuento de votos.
+El votante puede filtrar para solo ver el recuento de la votación en la que participó.
 
 ### Mockups de la aplicacion 
 ![No se pudo cargar la imagen](images/Mockups.png)
