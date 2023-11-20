@@ -152,7 +152,7 @@ requisitos funcionales y los mockups
 ## Autores ✒️
 
 * **Adrián Duarte** - *Diagrama de casos de uso* - [AdriUlima](https://github.com/AdriUlima)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Fulanito Detal** - *Documentación Carry del trabajo 🥵* - [fulanitodetal](#fulanito-de-tal)
 * **Jean Pierre Tinco** - *Diagrama de despliegue* - [JeanPierreTB](https://github.com/JeanPierreTB)
 * **Mario Cartolin** - *Elaboracion de Mockups* - [xsia-o](https://github.com/xsia-o)
 
