@@ -138,7 +138,7 @@ Diagrama elaborado relacionado correctamente a los requisitos funcionales:
 Requisitos funcionales:
 
 * _El usuario verá una SplashScreen al abrir la aplicación_
-* _El usuario podrá crearse una cuenta, iniciar sesión y cerrarla_
+* _El usuario podrá iniciar sesión y cerrarla_
 * _La sesión del usuario se guardará en el Local Storage_
 * _El usuario podrá ver los nombres de integrantes del grupo_
 * _El votante podrá votar en las votaciones correspondientes a sus respuestas en las preguntas filtro_
